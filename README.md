@@ -22,35 +22,15 @@ Installation
 Required Python libraries (listed below)
 
 Steps to Install
-Clone the repository:
+1) Clone the repository:
+    - git clone https://github.com/your-username/weather-dashboard.git
+2) Navigate the project directory
+    - cd weather-dashboard
+3) Install Python dependencies
+    - pip install -r requirements.txt
+4) Run the log analysis script
+    - python log_analysis.py
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/weather-dashboard.git
-Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd weather-dashboard
-Install Python dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Ensure you have the necessary permissions to execute the Bash scripts.
-
-Run the log analysis script:
-
-bash
-Copy
-Edit
-python log_analysis.py
-View the generated dashboard:
-
-Open the dashboard.html file in your browser.
 
 Usage
 The dashboard will display graphs of temperature and humidity for each day analyzed.
@@ -60,6 +40,7 @@ Customize the data range by modifying the log_analysis.py script to adjust the d
 The Bash scripts help automate the process of retrieving and processing log files for analysis.
 
 Example Output
+# FIX ME
 
 Contributing
 Feel free to fork the repository, open issues, and submit pull requests if you would like to contribute improvements or features.
