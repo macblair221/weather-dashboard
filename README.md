@@ -30,6 +30,10 @@ Steps to Install
     - pip install -r requirements.txt
 4) Run the log analysis script
     - python log_analysis.py
+  
+# Example Output:
+![Weather Dashboard Screenshot](https://github.com/macblair221/weather-dashboard/blob/main/weather-dashboard-ex.png?raw=true)
+     
 
 
 Usage
