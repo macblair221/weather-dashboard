@@ -39,8 +39,7 @@ Customize the data range by modifying the log_analysis.py script to adjust the d
 
 The Bash scripts help automate the process of retrieving and processing log files for analysis.
 
-# Example Output
-- fix me
+
 
 Contributing
 Feel free to fork the repository, open issues, and submit pull requests if you would like to contribute improvements or features.
